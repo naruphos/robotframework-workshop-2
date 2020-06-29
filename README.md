@@ -9,7 +9,7 @@
 ---
 **หน้าตา Screenshot ที่ต้องการ**
 
-![Recordit PNG](http://g.recordit.co/xt5e2Y1Bke.gif)
+![Recordit PNG](https://github.com/naruphos/robotframework-workshop-2/blob/master/ScreenShot.PNG)
 
 ---
 ### เงื่อนไข
